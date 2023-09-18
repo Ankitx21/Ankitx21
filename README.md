@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fdeveloper-gif-23414225&psig=AOvVaw0Y9wo0Ed0dPxGWjWA3CB9g&ust=1695098158726000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCODVs_Oqs4EDFQAAAAAdAAAAABAD" />
+  <img height="150" src="developer_github.gif">
 </div>
 
 ###
